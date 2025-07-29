@@ -13,6 +13,7 @@
 ## Índice
 
 - [Descripción del proyecto](#descripción-del-proyecto)
+- [Ejemplo de uso](#ejemplo-de-uso)
 - [Funcionalidades](#funcionalidades)
 - [Licencia](#licencia)
 - [Conclusiones](#conclusiones)
@@ -22,6 +23,10 @@
 ## Descripción del proyecto
 
 Pequeño juego donde ingresas una lista de amigos y el computador selecciona uno al azar.
+
+---
+## Ejemplo de uso
+
 
 ---
 
