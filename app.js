@@ -34,7 +34,7 @@ function sortearAmigo(){
         alert("Por favor añada al menos un amigo a la lista.");
     } else {
         let amigoSeleccionado = listaDeAmigos[ Math.floor(Math.random()*cantidadDeAmigos) ];
-        alert( `¡Felicidades! Te ha tocado ${amigoSeleccionado}.` );
+        alert( `¡Felicidades! Se te ha asignado a ${amigoSeleccionado}.` );
     }
 }
 
