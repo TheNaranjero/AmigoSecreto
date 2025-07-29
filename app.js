@@ -31,10 +31,10 @@ function sortearAmigo(){
     // chequea que haya al menos un amigo en la lista, de ser así elige un amigo al azar y lo muestra en pantalla.
     let cantidadDeAmigos = listaDeAmigos.length;
     if( cantidadDeAmigos == 0){
-        alert("Por favor añada al menos un amigo a la lista");
+        alert("Por favor añada al menos un amigo a la lista.");
     } else {
         let amigoSeleccionado = listaDeAmigos[ Math.floor(Math.random()*cantidadDeAmigos) ];
-        alert( `Felicidades! te ha tocado ${amigoSeleccionado}` );
+        alert( `¡Felicidades! Te ha tocado ${amigoSeleccionado}.` );
     }
 }
 
@@ -50,7 +50,7 @@ function agregarAmigo(){
     if(amigo == ""){
         alert("Por favor ingrese un nombre válido");
     } else if(listaDeAmigos.includes(amigo)){
-        alert(`Alguien llamado ${amigo} ya está en la lista, por favor ingrese un nombre diferente`);
+        alert(`Alguien llamado ${amigo} ya está en la lista, por favor ingrese un nombre diferente.`);
     } else{
         listaDeAmigos.push(amigo);
         visualizarListaDeAmigos();
