@@ -1,12 +1,15 @@
 <h1 align="center"> Amigo Secreto </h1>
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/a5fd6cca-68fc-49b2-835e-6a0360366fd7" alt="Varón blanco con remera naranja y cabello afro negro sonriendo mientras sostiene un sobre amarillo">
+</p>
 
-![Varón blanco con remera naranja y cabello afro negro sonriendo mientras sostiene un sobre amarillo](https://github.com/user-attachments/assets/a5fd6cca-68fc-49b2-835e-6a0360366fd7)   
-![Static Badge](https://img.shields.io/badge/ESTADO-COMPLETO-green)
-![Static Badge](https://img.shields.io/badge/LENGUAJE-JAVASCRIPT-magenta)
-![Static Badge](https://img.shields.io/badge/ORGANIZACI%C3%93N-ALURA-blue)
-![Static Badge](https://img.shields.io/badge/PROYECTO-1-orange)
-
+<p align="center">
+<img src="https://img.shields.io/badge/ESTADO-COMPLETO-green" alt="Badge Estado Completo">
+<img src="https://img.shields.io/badge/LENGUAJE-JAVASCRIPT-magenta" alt="Badge Lenguaje JavaScript">
+<img src="https://img.shields.io/badge/ORGANIZACIÓN-ALURA-blue" alt="Badge Organización Alura">
+<img src="https://img.shields.io/badge/PROYECTO-1-orange" alt="Badge Proyecto 1">
+</p>
 
 ---
 
