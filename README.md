@@ -28,6 +28,11 @@ Pequeño juego donde ingresas una lista de amigos y el computador selecciona uno
 ## Ejemplo de uso
 
 
+
+
+https://github.com/user-attachments/assets/1f75856d-5ff2-49ad-bdba-1c184ad060fd
+
+
 ---
 
 ## Funcionalidades
